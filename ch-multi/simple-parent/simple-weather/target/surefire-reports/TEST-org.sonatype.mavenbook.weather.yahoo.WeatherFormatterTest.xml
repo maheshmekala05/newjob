@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="org.sonatype.mavenbook.weather.yahoo.WeatherFormatterTest" time="0.52" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="org.sonatype.mavenbook.weather.yahoo.WeatherFormatterTest" time="1.075" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="9.0.1+11"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Mahesh\mvnexbook-examples-1.0\ch-multi"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Mahesh\mvnexbook-examples-1.0\newjob\ch-multi"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Mahesh\mvnexbook-examples-1.0\ch-multi"/>
+    <property name="user.dir" value="C:\Users\Mahesh\mvnexbook-examples-1.0\newjob\ch-multi"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="9.0.1+11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 7"/>
     <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.5.2\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\apache-maven-3.5.2\bin;C:\Windows\System32;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.5.2\bin;C:\Windows\System32;."/>
     <property name="maven.conf" value="C:\Program Files\apache-maven-3.5.2\bin\../conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="53.0"/>
@@ -64,5 +64,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.sonatype.mavenbook.weather.yahoo.WeatherFormatterTest" name="testFormat" time="0.52"/>
+  <testcase classname="org.sonatype.mavenbook.weather.yahoo.WeatherFormatterTest" name="testFormat" time="1.075"/>
 </testsuite>
